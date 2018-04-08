@@ -47,4 +47,4 @@ Example: `Rscript --vanilla predicted_separability.R human_pancreas_activated_qu
 
 ## Example task execution
 
-* See [this vignette](hcajamboree_howmanycells_vignette.html) for a worked example of this task. 
+* See [hcajamboree_howmanycells_vignette.html](https://cdn.rawgit.com/HumanCellAtlas/hca-jamboree-how-many-cells/ajc-upload/hcajamboree_howmanycells_vignette.html) for a worked example of this task. 
