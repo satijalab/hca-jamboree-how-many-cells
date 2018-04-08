@@ -45,4 +45,6 @@ Example: `Rscript --vanilla predicted_separability.R human_pancreas_activated_qu
 * human_pancreas.loom - Human inDrop dataset of 8,569 human pancreatic islet cells.
 * For our example "predicted separability" model, we construct a dummy function that considers only the number of DE genes (>2-fold change) as input.
 
+## Example task execution
 
+* See [this vignette](hcajamboree_howmanycells_vignette.html) for a worked example of this task. 
